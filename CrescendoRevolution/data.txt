@@ -1,0 +1,13 @@
+Song Title,id,Artist,year,Album,length,Producer,Genre
+Bad Habit,Bad Habit2022,Steve Lacy,2022,Gemini,3:52,Steve,Lacy
+Levitating,Levitating2020,Dua Lipa,2020,Future Nostalgia,3:23,Steven Kozmeniuk,Electro
+Money Trees,Money Trees2012,Kendrick Lamar,2012,Good Kid M.A.A.D. City,6:26,DJ Dahi,Hip hop
+A Sky Full of Stars,A Sky Full of Stars2014,Coldplay,2014,Ghost Stories,4:27,Avicii,Progressive house
+Truth Hurts,Truth Hurts2019,Lizzo,2019,Cuz I Love You,2:53,Ricky Reed,Trap
+High Hopes,High Hopes2018,Panic! at the Disco,2018,Pray for the Wicked,3:05,Jake Sinclair,Pop
+Save Your Tears,Save Your Tears2021,The Weeknd,2021,After Hours,3:21,The Weeknd,Synth Pop
+GOD.,GOD.2017,Kendrick Lamar,2017,Damn,4:08,Riera,Hip hop
+Toxicity,Toxicity2002,System of a Down,2002,Toxicity,3:39,Daron Malakian,Nu metal
+Drivers License,DriversLicense2021,Olivia Rodrigo,2021,Sour,4:02,Dan Nigro,Pop
+Blinding Lights,Blinding Lights2019,The Weeknd,2019,After Hours,3:21,The Weeknd,Synth Pop
+B.Y.O.B.,B.Y.O.B.2005,System of a Down,2005,Mezmerize,4:15,Rick Rubin,Trash metal
